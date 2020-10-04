@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Academic Education\n"
+"Last-Translator: \n"
+"Language-Team: logicalThemes <support@logicalthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:11
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:13
+msgid "Don't worry &hellip it happens to the best of us."
+msgstr ""
+
+#: 404.php:15
+msgid 'Return to Home Page'
+msgstr ""
+
+#: comments.php:17
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:25
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:55
+msgid 'Comments are closed.'
+msgstr ""
+
+#: template-parts/footer/site-info.php:10
+msgid 'By LogicalThemes'
+msgstr ""
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:62
+msgid 'Warm Greetings to you!!'
+msgstr ""
+
+#: functions.php:63
+msgid ' Our sincere thanks for choosing our academic education theme. We assure you a high performing theme for your academic business. Please proceed towards welcome section to start an amazing journey with us. '
+msgstr ""
+
+#: functions.php:64
+msgid 'Welcome...'
+msgstr ""
+
+#: functions.php:77
+msgid 'Education WordPress Theme'
+msgstr ""
+
+#: functions.php:118
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:119
+msgid 'Appears on blog page sidebar'
+msgstr ""
+
+#: functions.php:129
+#: functions.php:139
+msgid "Appears on posts and pages"
+msgstr ""
+
+#: functions.php:128
+msgid "Posts and Pages Sidebar"
+msgstr ""
+
+#: functions.php:138
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:148
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:158
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:149
+#: functions.php:159
+#: functions.php:169
+#: functions.php:179
+msgid "Appears on footer"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/header/top-bar.php:20
+msgid "Facebook"
+msgstr ""
+
+#: template-parts/header/top-bar.php:23
+msgid "Twitter"
+msgstr ""
+
+#: template-parts/header/top-bar.php:26
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/header/top-bar.php:29
+msgid "Youtube"
+msgstr ""
+
+#: template-parts/header/top-bar.php:32
+msgid "Pinterest"
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:11
+msgid "Open Menu"
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:14
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:24
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/single-post.php:44
+#: page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single-post.php:73
+msgid "Edit"
+msgstr ""
+
+#: archive.php:33
+#: archive.php:62
+#: archive.php:92
+#: archive.php:122
+#: archive.php:152
+#: archive.php:181
+#: archive.php:208
+#: index.php:33
+#: index.php:59
+#: index.php:86
+#: index.php:113
+#: index.php:140
+#: index.php:167
+#: index.php:192
+#: search.php:40
+#: search.php:72
+#: search.php:105
+#: search.php:138
+#: search.php:171
+#: search.php:203
+#: search.php:233
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:34
+#: archive.php:63
+#: archive.php:93
+#: archive.php:123
+#: archive.php:153
+#: archive.php:182
+#: archive.php:209
+#: index.php:34
+#: index.php:60
+#: index.php:87
+#: index.php:114
+#: index.php:141
+#: index.php:168
+#: index.php:193
+#: search.php:41
+#: search.php:73
+#: search.php:106
+#: search.php:139
+#: search.php:172
+#: search.php:204
+#: search.php:234
+msgid "Next page"
+msgstr ""
+
+#: archive.php:35
+#: archive.php:64
+#: archive.php:94
+#: archive.php:124
+#: archive.php:154
+#: archive.php:183
+#: archive.php:210
+#: index.php:35
+#: index.php:61
+#: index.php:88
+#: index.php:115
+#: index.php:142
+#: index.php:169
+#: index.php:194
+#: search.php:42
+#: search.php:74
+#: search.php:107
+#: search.php:140
+#: search.php:173
+#: search.php:205
+#: search.php:235
+#: template-parts/single-post.php:48
+msgid "page"
+msgstr ""
+
+#: search.php:21
+#: search.php:53
+#: search.php:86
+#: search.php:119
+#: search.php:152
+#: search.php:182
+#: search.php:214
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: search.php:31
+#: search.php:63
+#: search.php:96
+#: search.php:129
+#: search.php:162
+#: search.php:193
+#: search.php:224
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: search.php:23
+#: search.php:55
+#: search.php:88
+#: search.php:121
+#: search.php:154
+#: search.php:184
+#: search.php:216
+msgid 'Nothing Found'
+msgstr ""
+
+#: searchform.php:9
+msgid 'Search for:'
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr ""
+
+#: template-parts/single-post.php:55
+msgid 'Parent post link'
+msgstr ""
+
+#: template-parts/single-post.php:60
+msgid 'Next'
+msgstr ""
+
+#: template-parts/single-post.php:61
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/single-post.php:62
+msgid 'Previous'
+msgstr ""
+
+#: template-parts/single-post.php:63
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/single-post.php:19
+#: template-parts/content-audio.php:44
+#: template-parts/content-gallery.php:32
+#: template-parts/content-image.php:27
+#: template-parts/content-video.php:44
+#: template-parts/content.php:20
+#: template-parts/grid-layout.php:28
+msgid '0 Comments'
+msgstr ""
+
+#: page-template/home-custom.php:42
+msgid "LEARN MORE"
+msgstr ""
+
+#: page-template/home-custom.php:55
+msgid "Previous"
+msgstr ""
+
+#: page-template/home-custom.php:58
+msgid "Next"
+msgstr ""
+
+#: page-template/home-custom.php:101
+msgid "SEE COURSE"
+msgstr ""
+
+#: template-parts/content-audio.php:51
+#: template-parts/content-gallery.php:37
+#: template-parts/content-image.php:32
+#: template-parts/content-video.php:49
+#: template-parts/content.php:25
+#: template-parts/grid-layout.php:33
+msgid 'READ MORE...'
+msgstr ""
+
+#: inc/customizer.php:19
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:31
+#: inc/customizer.php:42
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Add Topbar Content here"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid 'Add Timmings'
+msgstr ""
+
+#: inc/customizer.php:176
+msgid 'Add Call Text'
+msgstr ""
+
+#: inc/customizer.php:187
+msgid 'Add Phone Number'
+msgstr ""
+
+#: inc/customizer.php:198
+msgid 'Add Email Text'
+msgstr ""
+
+#: inc/customizer.php:209
+msgid 'Add Email'
+msgstr ""
+
+#: inc/customizer.php:221
+msgid 'Topbar Color'
+msgstr ""
+
+#: inc/customizer.php:232
+msgid 'Topbar Font Size'
+msgstr ""
+
+#: inc/customizer.php:244
+msgid 'Logo'
+msgstr ""
+
+#: inc/customizer.php:257
+msgid 'Logo Font'
+msgstr ""
+
+#: inc/customizer.php:268
+msgid 'Logo Font Size'
+msgstr ""
+
+#: inc/customizer.php:280
+msgid 'Description Color'
+msgstr ""
+
+#: inc/customizer.php:293
+msgid 'Description Fonts'
+msgstr ""
+
+#: inc/customizer.php:303
+msgid 'Description Font Size'
+msgstr ""
+
+#: inc/customizer.php:315
+msgid 'Contact Color'
+msgstr ""
+
+#: inc/customizer.php:327
+msgid 'Contact Font Size'
+msgstr ""
+
+#: inc/customizer.php:335
+msgid 'Social Media'
+msgstr ""
+
+#: inc/customizer.php:336
+msgid 'Add Social Media Url here'
+msgstr ""
+
+#: inc/customizer.php:346
+msgid 'Add Facebook link'
+msgstr ""
+
+#: inc/customizer.php:357
+msgid 'Add Twitter link'
+msgstr ""
+
+#: inc/customizer.php:368
+msgid 'Add Instagram link'
+msgstr ""
+
+#: inc/customizer.php:379
+msgid 'Add Youtube link'
+msgstr ""
+
+#: inc/customizer.php:390
+msgid 'Add Pinterest link'
+msgstr ""
+
+#: inc/customizer.php:398
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:409
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:419
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:431
+#: inc/customizer.php:574
+msgid 'Title Color'
+msgstr ""
+
+#: inc/customizer.php:444
+#: inc/customizer.php:587
+msgid 'Title Fonts'
+msgstr ""
+
+#: inc/customizer.php:455
+#: inc/customizer.php:598
+msgid 'Title Font Size'
+msgstr ""
+
+#: inc/customizer.php:467
+#: inc/customizer.php:610
+msgid 'Content Color'
+msgstr ""
+
+#: inc/customizer.php:480
+#: inc/customizer.php:623
+msgid 'Content Fonts'
+msgstr ""
+
+#: inc/customizer.php:490
+#: inc/customizer.php:633
+msgid 'Content Font Size'
+msgstr ""
+
+#: inc/customizer.php:502
+#: inc/customizer.php:645
+msgid 'Button color'
+msgstr ""
+
+#: inc/customizer.php:515
+#: inc/customizer.php:658
+msgid 'Button Font'
+msgstr ""
+
+#: inc/customizer.php:522
+msgid 'Courses Section'
+msgstr ""
+
+#: inc/customizer.php:523
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:541
+msgid 'Select post'
+msgstr ""
+
+#: inc/customizer.php:564
+msgid 'Select Category'
+msgstr ""
+
+#: inc/customizer.php:668
+msgid 'Button Font Size'
+msgstr ""
+
+#: inc/customizer.php:676
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:677           
+msgid 'Add some text for footer like copyright etc.'
+msgstr ""
+
+#: inc/customizer.php:686
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:769
+msgid 'Academic Education Pro'
+msgstr ""
+
+#: inc/customizer.php:770
+msgid 'Go Pro'
+msgstr ""
